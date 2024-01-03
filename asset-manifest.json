@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ShwetaPortfolioWebsite/static/css/main.148cf457.css",
+    "main.js": "/ShwetaPortfolioWebsite/static/js/main.b6038454.js",
+    "static/js/415.4d6acbeb.chunk.js": "/ShwetaPortfolioWebsite/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ShwetaPortfolioWebsite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SolarForecast.png": "/ShwetaPortfolioWebsite/static/media/SolarForecast.35425bfea8ea9a7c5d72.png",
+    "static/media/NewsSummarization.png": "/ShwetaPortfolioWebsite/static/media/NewsSummarization.f606856320cb80832605.png",
+    "static/media/FPotusTweets.png": "/ShwetaPortfolioWebsite/static/media/FPotusTweets.095051fd200b06d8b8fd.png",
+    "static/media/logo.png": "/ShwetaPortfolioWebsite/static/media/logo.8fa599a1ea948db8f849.png",
+    "static/media/Shweta_Mishra.pdf": "/ShwetaPortfolioWebsite/static/media/Shweta_Mishra.e991db014c045fc25935.pdf",
+    "static/media/avatar.svg": "/ShwetaPortfolioWebsite/static/media/avatar.7cb50ece55f190dbea385665d8477faa.svg",
+    "static/media/home-bg.jpg": "/ShwetaPortfolioWebsite/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/gir_sit.svg": "/ShwetaPortfolioWebsite/static/media/gir_sit.e9116070b7255716c416018b2164f6ed.svg",
+    "static/media/who_am_I.svg": "/ShwetaPortfolioWebsite/static/media/who_am_I.3ec1c5a763cfcb0a6bc543de068fe4e1.svg",
+    "static/media/pre.svg": "/ShwetaPortfolioWebsite/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/ShwetaPortfolioWebsite/index.html",
+    "static/media/R.svg": "/ShwetaPortfolioWebsite/static/media/R.717902c299b48302dd0178d6f7d7c95b.svg",
+    "static/media/apache_spark-icon.svg": "/ShwetaPortfolioWebsite/static/media/apache_spark-icon.9546d151a5fb024bb930010cb812e547.svg",
+    "static/media/databricks-svgrepo.svg": "/ShwetaPortfolioWebsite/static/media/databricks-svgrepo.6763f12a8fac4ed176e4176ce45bed4c.svg",
+    "static/media/tensorflow-icon.svg": "/ShwetaPortfolioWebsite/static/media/tensorflow-icon.f5088e8e377a3d03f117bb28ce544789.svg",
+    "static/media/pytorch-icon.svg": "/ShwetaPortfolioWebsite/static/media/pytorch-icon.8653d1d6d7ba93c4c4ed583bbd51fb99.svg",
+    "main.148cf457.css.map": "/ShwetaPortfolioWebsite/static/css/main.148cf457.css.map",
+    "main.b6038454.js.map": "/ShwetaPortfolioWebsite/static/js/main.b6038454.js.map",
+    "415.4d6acbeb.chunk.js.map": "/ShwetaPortfolioWebsite/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ShwetaPortfolioWebsite/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.148cf457.css",
+    "static/js/main.b6038454.js"
+  ]
+}
