@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ShwetaPortfolioWebsite/static/css/main.148cf457.css",
-    "main.js": "/ShwetaPortfolioWebsite/static/js/main.b6038454.js",
+    "main.js": "/ShwetaPortfolioWebsite/static/js/main.79aad3f6.js",
     "static/js/415.4d6acbeb.chunk.js": "/ShwetaPortfolioWebsite/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/ShwetaPortfolioWebsite/static/js/787.1ed0c42c.chunk.js",
     "static/media/SolarForecast.png": "/ShwetaPortfolioWebsite/static/media/SolarForecast.35425bfea8ea9a7c5d72.png",
@@ -21,12 +21,12 @@
     "static/media/tensorflow-icon.svg": "/ShwetaPortfolioWebsite/static/media/tensorflow-icon.f5088e8e377a3d03f117bb28ce544789.svg",
     "static/media/pytorch-icon.svg": "/ShwetaPortfolioWebsite/static/media/pytorch-icon.8653d1d6d7ba93c4c4ed583bbd51fb99.svg",
     "main.148cf457.css.map": "/ShwetaPortfolioWebsite/static/css/main.148cf457.css.map",
-    "main.b6038454.js.map": "/ShwetaPortfolioWebsite/static/js/main.b6038454.js.map",
+    "main.79aad3f6.js.map": "/ShwetaPortfolioWebsite/static/js/main.79aad3f6.js.map",
     "415.4d6acbeb.chunk.js.map": "/ShwetaPortfolioWebsite/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/ShwetaPortfolioWebsite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.148cf457.css",
-    "static/js/main.b6038454.js"
+    "static/js/main.79aad3f6.js"
   ]
 }
